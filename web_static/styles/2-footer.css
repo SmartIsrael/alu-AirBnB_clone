@@ -1,0 +1,14 @@
+footer {
+    background-color: #00ff00;
+    height: 60px;
+    width: 100%;
+    margin-top: 506px; /* Space between header and footer */
+}
+
+  /* CSS styles for centering text in the footer */
+footer p {
+    display: grid;
+    place-items: center;
+    height: 60px;
+    margin: 0; 
+}
